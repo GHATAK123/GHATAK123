@@ -16,8 +16,31 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
+My Specialities include :
 
-<h2 style="color:teal"> Technology I love</h2>
+✔️ Programming Languages: C++,Java, Python, Javascript(ES6).
+
+✔️ Ability to quickly learn New Skills, Technologies, and Web Frameworks.
+
+✔️ Problem Solving Skills
+
+✔️ Frontend technologies (HTML,CSS,Bootstrap and React)
+
+✔️ Design abilities (UX / UI )
+
+✔️ Server-side scripting (Node and express)
+
+✔️ Version control system (Git and Github )
+
+✔️ Working with API's (REST AND CRUD)
+
+✔️ Database and cache( MongoDB and MySql)
+
+✔️ Mobile-first approach (grids and responsive design layout)
+
+Pursuing my Bachelor's degree in Information Technology. 
+
+<h2> Technology I love</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
