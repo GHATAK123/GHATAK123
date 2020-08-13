@@ -1,4 +1,15 @@
 ### Hi there, I'm Prakash Anand - aka [GHATAK][Portfolio](https://ghatak123.github.io/My_Portfolio/) 👋
+<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" align="left" width="600" height="600">
+
+![](https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA)
+
+<p align="center">
+	<a href="https://github.com/GHATAK123"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/PRAKASH_GHATAK"><img src="https://img.shields.io/twitter/follow/ReddyPrasade?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/prakash-anand/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
+  
+	
+</p>
 
 ## I'm a Full Stack Web Developer
 - 🔭 I’m currently working as a freelancer.
@@ -7,6 +18,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music.
 
+<h2> Technology I love</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
