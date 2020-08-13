@@ -16,6 +16,12 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 My Specialities include :
 
 ✔️ Programming Languages: C++,Java, Python, Javascript(ES6).
@@ -38,7 +44,7 @@ My Specialities include :
 
 ✔️ Mobile-first approach (grids and responsive design layout)
 
-Pursuing my Bachelor's degree in Information Technology. 
+Completed my Bachelor's degree in Information Technology. 
 
 <h2> Technology I love</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
