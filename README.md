@@ -1,5 +1,5 @@
 ### Hi there, I'm Prakash Anand - aka [GHATAK][Portfolio](https://ghatak123.github.io/My_Portfolio/) 👋
-<img src="https://github.com/GHATAK123/My_Portfolio/blob/master/images/IMG_-wl1xai.jpg" alt="Prakash Anand" align="left" width="600" height="600">
+<img src="https://github.com/GHATAK123/My_Portfolio/blob/master/images/circle-cropped.png" alt="Prakash Anand" align="left" width="400" height="400">
 
 
 <p align="center">
