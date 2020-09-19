@@ -16,14 +16,9 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
+</p>
 My Specialities include :
 
 ✔️ Programming Languages: C++,Java, Python, Javascript(ES6).
