@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
-<p align="center">
+<p align="right">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
 </p>
 My Specialities include :
