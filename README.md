@@ -20,7 +20,6 @@
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghatak123)](https://github.com/ghatak123/github-readme-stats)
 <br>
 My Specialities include :
 
