@@ -19,6 +19,8 @@
 <p align="right">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasade)](https://github.com/reddyprasade/github-readme-stats)
 My Specialities include :
 
 ✔️ Programming Languages: C++,Java, Python, Javascript(ES6).
