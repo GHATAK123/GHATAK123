@@ -10,7 +10,7 @@
 	
 </p>
 
-## I'm a Full Stack Web Developer
+## I'm a Full Stack Engineer.
 - 🔭 I’m currently working as a full stack developer at <b>Maersk</b>.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
@@ -19,6 +19,8 @@
 <p align="left">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHATAK123&layout=compact)](https://github.com/GHATAK123/github-readme-stats)
 
 <br>
 My Specialities include :
@@ -57,6 +59,4 @@ Completed my Bachelor's degree in Information Technology.
 <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://java.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
+<a href="https://www.postgres
