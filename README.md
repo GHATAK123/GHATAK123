@@ -14,7 +14,7 @@
 - 🔭 I’m currently working as a full stack developer at <b>Maersk</b>.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
 <p align="left">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=ghatak123&show_icons=true&theme=synthwave"/>
@@ -31,7 +31,7 @@ My Specialities include :
 
 ✔️ Problem Solving Skills
 
-✔️ Frontend technologies (HTML,CSS,Bootstrap and React)
+✔️ Frontend technologies (HTML,CSS,Bootstrap,React and Vuejs)
 
 ✔️ Design abilities (UX / UI )
 
