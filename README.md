@@ -1,4 +1,4 @@
-### Hi there, I'm Prakash Anand - aka [GHATAK][Portfolio](https://ghatak123.github.io/My_Portfolio/) 👋
+### Hi there, I'm Prakash Anand - aka [GHATAK]👋
 
 
 
