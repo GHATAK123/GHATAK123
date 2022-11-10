@@ -25,7 +25,7 @@
 <br>
 My Specialities include :
 
-✔️ Programming Languages: C++,Java, Python, Javascript(ES6).
+✔️ Programming Languages: Go,C++,Java, Python, Javascript(ES6) and TypeScript.
 
 ✔️ Ability to quickly learn New Skills, Technologies, and Web Frameworks.
 
