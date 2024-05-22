@@ -11,7 +11,7 @@
 </p>
 
 ## I'm a Full Stack Engineer.
-- 🔭 I’m currently working as a full stack developer at <b>Maersk</b>.
+- 🔭 I’m currently working as a full stack developer at <b>AMEX</b>.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
